@@ -1,5 +1,5 @@
 def mario
-  phrase = "Hasta la vista, baby"
+  phrase = "It's-a me, Mario!"
   puts phrase
 end
 
